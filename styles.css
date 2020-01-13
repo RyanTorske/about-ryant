@@ -1,6 +1,11 @@
 h1 {
 	color: maroon;
 }
+
+.t-money {
+	font-size: 70px;
+}
+
 .center {
 	width: 100%;
 	margin: auto;
@@ -10,5 +15,36 @@ h1 {
 }
 
 
+body {
+	background-image: url( "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png")
+}
 
 
+#bob-ross {
+	width: 40%;
+	float: right;
+}
+
+#heart {
+	width: 20%;
+	margin-top: 10%
+
+}
+
+#look-alike {
+	width: 40%;
+	float: left;
+
+}
+
+#first-paragraph{
+	margin-top: 15%;
+
+}
+
+.bio {
+	margin-top: 20px;
+	width: 100%;
+	padding: 20px;
+	color: deeppink;
+}
